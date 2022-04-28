@@ -1,5 +1,5 @@
 # Project-Details
-Knox Lane Website: HTML, CSS, JS, Animations.
+Knox Lane Website: HTML, CSS, JS, Animations.                                                                                                                             
 https://veerababu32.github.io/Knox-lane-website/
 
 BookET Events Website: HTML, CSS, SCSS, Gulp, Bootsrap.                                                                 
@@ -14,14 +14,14 @@ https://veerababu32.github.io/Wikipedia-Search/
 Cloud Hosting Webpage: HTMl, CSS, SCSS, Gulp.                                                                                                                          
 https://veerababu32.github.io/Cloud-Hosting-webpage/
 
-VIDC Webpage: HTML, CSS, SCSS, Gulp.
+VIDC Webpage: HTML, CSS, SCSS, Gulp.                                                                                                                                     
 https://veerababu32.github.io/Irrigation/
 
-Fitnessclub Website: HTML, CSS, JS.                                                                                                                                  
+Fitnessclub Website: HTML, CSS, JS.                                                                                                                            
 https://veerababu32.github.io/Fitnessclub-website/
 
-Trends Shopping Website: HTML, CSS, JS.
+Trends Shopping Website: HTML, CSS, JS.                                                                                                                                   
 https://veerababu32.github.io/Trends-Shopping-Website/
 
-Tic-Tac-Toe Game: HTML, CSS & Animations.
+Tic-Tac-Toe Game: HTML, CSS & Animations.                                                                                                                                
 https://veerababu32.github.io/Tic-Tac-Toe-Game/
