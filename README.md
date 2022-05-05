@@ -27,5 +27,5 @@ Tic-Tac-Toe Game: HTML, CSS & Animations.
 https://veerababu32.github.io/Tic-Tac-Toe-Game/
 
 
-Optimization Techniques in Knox Lane webstite
+Optimization Techniques in Knox Lane webstite                                                                         
 https://veerababu32.github.io/Optimization/
