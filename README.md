@@ -6,7 +6,7 @@ BookET Events Website: HTML, CSS, SCSS, Gulp, Bootsrap.
 https://veerababu32.github.io/BookET-Page/
 
 HWSchools Website: HTML, SCSS, Gulp, Tailwind CSS.                                                                                                                
-https://veerababu32.github.io/HWschools-website/                                                                           
+https://veerababu32.github.io/HWschools-website/                                                                         
                    
 Emailer Webpage:- HTML                                                                                                                                                 
 https://veerababu32.github.io/Emailer-webpage/
