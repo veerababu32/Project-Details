@@ -1,6 +1,4 @@
 # Project-Details
-Knox Lane Website: HTML, CSS, JS, Animations.                                                                                                                             
-https://veerababu32.github.io/Knox-lane-website/
 
 BookET Events Website: HTML, CSS, SCSS, Gulp, Bootsrap.                                                                 
 https://veerababu32.github.io/BookET-Page/
