@@ -32,5 +32,5 @@ https://veerababu32.github.io/Tic-Tac-Toe-Game/
 Optimization Techniques in Knox Lane webstite                                                                         
 https://veerababu32.github.io/Optimization/
 
-StopWatch: HTML, CSS, JS.
+StopWatch: HTML, CSS, JS.                                          
 https://veerababu32.github.io/StopWatch/
